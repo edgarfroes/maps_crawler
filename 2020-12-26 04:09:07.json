@@ -1,0 +1,147 @@
+{
+  "chIJ8VSHBIvMW5MR3-gBekezOHw": {
+    "name": "Creche Ipe Branco",
+    "business_status": "CLOSED_PERMANENTLY",
+    "rating": 5.0,
+    "user_ratings_total": 1.0,
+    "google_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8VSHBIvMW5MR3-gBekezOHw",
+    "address": "St. N QNN 13 - Ceilândia, Brasília - DF, 72225-130, Brasil",
+    "latitude": -15.8145359,
+    "longitude": -48.1172465,
+    "address_components": [
+      {
+        "long_name": "QNN 13",
+        "short_name": "QNN 13",
+        "types": [
+          "sublocality_level_3",
+          "sublocality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Setor N",
+        "short_name": "St. N",
+        "types": [
+          "sublocality_level_2",
+          "sublocality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ceilândia",
+        "short_name": "Ceilândia",
+        "types": [
+          "administrative_area_level_4",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Brasília",
+        "short_name": "Brasília",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Distrito Federal",
+        "short_name": "DF",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Brasil",
+        "short_name": "BR",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "72225-130",
+        "short_name": "72225-130",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ]
+  },
+  "chIJo4hIO6_NW5MR5BILoVEvPJ8": {
+    "name": "Creche Pública Estrela Do Cerrado",
+    "business_status": "OPERATIONAL",
+    "rating": 4.7,
+    "user_ratings_total": 3.0,
+    "google_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4hIO6_NW5MR5BILoVEvPJ8",
+    "address": "St. P CNM 2 - Ceilândia, Brasília - DF, 72235-808, Brasil",
+    "latitude": -15.8449704,
+    "longitude": -48.1258886,
+    "address_components": [
+      {
+        "long_name": "14",
+        "short_name": "14",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "CNM 2",
+        "short_name": "CNM 2",
+        "types": [
+          "sublocality_level_3",
+          "sublocality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Setor P",
+        "short_name": "St. P",
+        "types": [
+          "sublocality_level_2",
+          "sublocality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ceilândia",
+        "short_name": "Ceilândia",
+        "types": [
+          "administrative_area_level_4",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Brasília",
+        "short_name": "Brasília",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Distrito Federal",
+        "short_name": "DF",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Brasil",
+        "short_name": "BR",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "72235-810",
+        "short_name": "72235-810",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ]
+  }
+}

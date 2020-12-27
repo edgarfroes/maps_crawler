@@ -1,0 +1,24 @@
+{
+  "chIJ8VSHBIvMW5MR3-gBekezOHw": {
+    "name": "Creche Ipe Branco",
+    "business_status": "CLOSED_PERMANENTLY",
+    "rating": 5.0,
+    "user_ratings_total": 1.0,
+    "address": "St. N QNN 13 - Ceilândia, Brasília - DF, 72225-130, Brasil",
+    "latitude": -15.8145359,
+    "longitude": -48.1172465,
+    "ra": "Ceilândia",
+    "ra_code": "Ceilandia"
+  },
+  "chIJo4hIO6_NW5MR5BILoVEvPJ8": {
+    "name": "Creche Pública Estrela Do Cerrado",
+    "business_status": "OPERATIONAL",
+    "rating": 4.7,
+    "user_ratings_total": 3.0,
+    "address": "St. P CNM 2 - Ceilândia, Brasília - DF, 72235-808, Brasil",
+    "latitude": -15.8449704,
+    "longitude": -48.1258886,
+    "ra": "Ceilândia",
+    "ra_code": "Ceilandia"
+  }
+}
